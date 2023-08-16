@@ -1,6 +1,6 @@
 # Vegetables-Classification
 
-## How to Run
+## How to Run the code
 
 1. conda create -n vegetables python=3.7 -y
 2. conda activate vegetables
